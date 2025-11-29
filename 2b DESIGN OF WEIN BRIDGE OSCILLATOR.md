@@ -17,21 +17,22 @@
 # Tabulation
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+|      2V      |   6.4ms           |      156.25Hz                |  159.15Hz                      |
 
 
 
 # Graph
+![WhatsApp Image 2025-11-29 at 7 58 16 PM](https://github.com/user-attachments/assets/ed8f99d0-f5cf-4915-9781-e8e7dadf3090)
 
 
 # Sample images 
 
-
+<img width="977" height="386" alt="image" src="https://github.com/user-attachments/assets/4e895e0f-b7ea-4f26-8dcb-6917b3154370" />
 
 ## Result
 
 Thus, the **WEIN BRIDGE OSCILLATOR** was designed for the given frequency.
 
-- **(i) Theoretical Frequency:**  
-- **(ii) Practical Frequency:**  
+- **(i) Theoretical Frequency: 156.25Hz  
+- **(ii) Practical Frequency: 159.15Hz 
 
